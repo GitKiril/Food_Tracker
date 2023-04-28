@@ -1,0 +1,5 @@
+C:\Users\Кирилл\Desktop\Food Tracker\Food Tracker\Food Tracker\obj\Debug\netcoreapp3.1\Food Tracker.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Food Tracker\Food Tracker\Food Tracker\obj\Debug\netcoreapp3.1\Food Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Food Tracker\Food Tracker\Food Tracker\obj\Debug\netcoreapp3.1\Food Tracker.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Food Tracker\Food Tracker\Food Tracker\obj\Debug\netcoreapp3.1\Food Tracker.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Food Tracker\Food Tracker\Food Tracker\obj\Debug\netcoreapp3.1\Food Tracker.csproj.CoreCompileInputs.cache

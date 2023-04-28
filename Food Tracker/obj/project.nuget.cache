@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUVrt0wB5DYJ5IvdVXpAFGXRj8j7NyynPncZL73ORHwEuxYmHcvr0B7b9ug4bZQQ05Oco6+AMENjRxPgVi/3TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Кирилл\\Desktop\\Food Tracker\\Food Tracker\\Food Tracker\\Food_Tracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
